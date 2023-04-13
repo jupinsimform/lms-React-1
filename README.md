@@ -10,6 +10,10 @@
 
 **React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with the user interface and rendering components to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.**
 
+## Live Demonstration
+
+[React App from Scratch](https://practical-1--polite-fox-aa7b16.netlify.app/)
+
 # React Setup From Scratch
 
 ### install Node.js and npm
